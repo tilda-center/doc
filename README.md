@@ -68,9 +68,9 @@
 ## OLIVAV
 ### Server Configuration:
 
-- 8 CPU CORE
-- 1.7Ghz AMD64
-- 64 GB RAM
+- 2 CPU CORE XEON
+- 3 Ghz AMD64
+- 8 GB RAM
 
 ### System Configuration:
 
