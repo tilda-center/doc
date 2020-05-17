@@ -1,29 +1,29 @@
-##APU
+## APU
 
-###Router System Configuration:
+### Router System Configuration:
 - Freebsd 12.1.5
 - CBSD
 - Reggae
 - VPN
 
-###Jails:
+### Jails:
 - CBSD
 
-##Marvin
-###Server Configuration:
+## Marvin
+### Server Configuration:
 
 - 8 CPU CORE
 - 1.7Ghz AMD64
 - 64 GB RAM
 
-###System Configuration:
+### System Configuration:
 
 - [Freebsd 12.1.5](https://www.freebsd.org/)
 - [CBSD](https://cbsd.io)
 - [Reggae](https://cbsd.io/reggae/quick-start/)
 - [Jail](https://www.freebsd.org/doc/handbook/jails.html)
 
-###Jails:
+### Jails:
 
 - CBSD
 - [NGINX](https://www.nginx.com/)
@@ -33,24 +33,24 @@
 - [ZNC](https://wiki.znc.in/ZNC)
 - [POLIPO](https://www.irif.fr/~jch/software/polipo/)
 
-###Base:
+### Base:
 - [PostgreSQL](https://www.postgresql.org/)(SLAVE)
 
-##Ziskar
-###Server Configuration:
+## Ziskar
+### Server Configuration:
 
 - 8 CPU CORE
 - 1.7Ghz AMD64
 - 64 GB RAM
 
-###System Configuration:
+### System Configuration:
 
 - Freebsd 12.1.5
 - CBSD
 - Reggae
 - Jail
 
-###Jails:
+### Jails:
 
 - CBSD
 - NGINX
@@ -62,27 +62,27 @@
 - [COTURN](https://github.com/coturn/coturn)
 
 
-###Base:
+### Base:
 - PostgreSQL (MASTER)
 
-##OLIVAV
-###Server Configuration:
+## OLIVAV
+### Server Configuration:
 
 - 8 CPU CORE
 - 1.7Ghz AMD64
 - 64 GB RAM
 
-###System Configuration:
+### System Configuration:
 
 - Freebsd 12.1.5
 - CBSD
 - Reggae
 - Jail
 
-###Jails:
+### Jails:
 
 - CBSD
 
-#DIAGRAM
+# DIAGRAM
 
 ![Diagram](Diagram2.png)
